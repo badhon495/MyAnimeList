@@ -31,19 +31,19 @@ Custom CSS themes for MyAnimeList using the beautiful [Catppuccin](https://githu
 
 <details>
 <summary>🌻 Latte</summary>
-<img src="https://user-images.githubusercontent.com/56817415/213473391-603bdc68-68f4-4877-a15a-b469040928b5.png"/>
+<img src="https://github.com/user-attachments/assets/ac5d5a71-45cc-4e5d-93bc-7139a7af4e1f"/>
 </details>
 <details>
 <summary>🪴 Frappé</summary>
-<img src="https://user-images.githubusercontent.com/56817415/213473368-16931b70-fd84-4a89-a698-1b1bca1f82de.png"/>
+<img src="https://github.com/user-attachments/assets/22355970-0477-4bb9-83d9-3b6967fd2b53"/>
 </details>
 <details>
 <summary>🌺 Macchiato</summary>
-<img src="https://user-images.githubusercontent.com/56817415/213473285-7bd858be-6947-4d9e-8c01-2573cbc7e76c.png"/>
+<img src="https://github.com/user-attachments/assets/2d88462d-db28-4b8f-9bc9-5c85d9984d4e"/>
 </details>
 <details>
 <summary>🌿 Mocha</summary>
-<img src="https://user-images.githubusercontent.com/56817415/213471997-34837219-88cc-4db2-baca-e25813a89789.png"/>
+<img src="https://github.com/user-attachments/assets/443aac8c-3932-4594-a7a3-b8ca1ddcddc8"/>
 </details>
 
 ## Contributing
