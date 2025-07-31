@@ -14,7 +14,7 @@ Custom CSS themes for MyAnimeList using the beautiful [Catppuccin](https://githu
 3. Click **"Add Custom CSS"**
 4. Copy and paste the CSS code from your preferred theme file
 5. Save changes
-6. Go to [Style Settings](https://myanimelist.net/ownlist/style) and select **Dark Blue** and click save.
+6. Go to [Style Settings](https://myanimelist.net/ownlist/style), select **Dark Blue** and click save.
 
 ### Optional Background Setup
 - **Background Image**: [Catppuccin Wallpaper](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/purpled-night.jpg)
